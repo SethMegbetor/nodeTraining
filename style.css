@@ -1,0 +1,12 @@
+body{
+
+    /*this is how to set the background color*/
+   /* background-color: #FFFF00;*/
+    background-image: url(./images/image_from_ios.jpg);
+
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: red;
+}
